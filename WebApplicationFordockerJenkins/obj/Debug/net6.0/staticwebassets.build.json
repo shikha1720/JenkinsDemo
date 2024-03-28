@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "J50sxpDhX69psy6f2sTTZ68FH8hM9khdJpKiBDkQfB0=",
+  "Source": "WebApplicationFordockerJenkins",
+  "BasePath": "_content/WebApplicationFordockerJenkins",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
