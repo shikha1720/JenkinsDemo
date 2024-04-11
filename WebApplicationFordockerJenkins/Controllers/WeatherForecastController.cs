@@ -29,5 +29,11 @@ namespace WebApplicationFordockerJenkins.Controllers
             })
             .ToArray();
         }
+
+        [HttpGet("/summaries")]
+        public IEnumerable<string> GetSummaries()
+        {
+            return Summaries;
+        }
     }
 }
